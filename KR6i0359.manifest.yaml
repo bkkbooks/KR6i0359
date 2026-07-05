@@ -37,13 +37,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0359_000.yaml, hash: 'sha256:99d4f8cfadf031893363567f6c589dc5ed6d573bce163761dc2a8b89cd8a1ad9'}
-  - {seq: 1, filename: KR6i0359_001.yaml, hash: 'sha256:bfadbaaefebe935ddb4e32edb5830860b67b05a0f6301722433fad71a3bf94bf'}
-  - {seq: 2, filename: KR6i0359_002.yaml, hash: 'sha256:5d422aac462789fb59044517f26b03eefff3bedafdb4fbafe37652ea5f26443e'}
-  - {seq: 3, filename: KR6i0359_003.yaml, hash: 'sha256:70365bdbb019a6ce08a2c30d7128444216d72567886d7679503b3e59bba8ee6b'}
+  - {seq: 1, filename: KR6i0359_001.yaml, hash: 'sha256:f362e2c69302f611757c3841e1195250f2bed22f92c69abb1aaddaba32c52a0c'}
+  - {seq: 2, filename: KR6i0359_002.yaml, hash: 'sha256:4f25f7556246eed9c49079f5fa4e873c4ee8432e6361b99fe274d7a4fa934967'}
+  - {seq: 3, filename: KR6i0359_003.yaml, hash: 'sha256:c2654a1eb68796e434010312258b90542788bd835c7d23447ae39db04911d384'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0359_001.markers.yaml, hash: 'sha256:82e2fd5d4b19683c5541fb970ed42069e818d4fdc41a108119cc44838cad7bd2'}
-  - {seq: 2, role: markers, filename: assets/KR6i0359_002.markers.yaml, hash: 'sha256:38343a4b5011be87b4a1a7225e200a566dd8640c9f09656f50f75816f756deb9'}
-  - {seq: 3, role: markers, filename: assets/KR6i0359_003.markers.yaml, hash: 'sha256:f6d068734265c26109d38f29e3797747891209109007e4cfc9781e7214a8972f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0359_000.markers.yaml, hash: 'sha256:678e1b1625028faefebfb2c31767681e2d59e36e856957615c1714ce709c651f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0359_001.markers.yaml, hash: 'sha256:d431c9a8ce8c05b7b8dbe63b62c34fa5a462e529a4fa5d3c4906b6916fd35ad6'}
+  - {seq: 2, role: markers, filename: assets/KR6i0359_002.markers.yaml, hash: 'sha256:cfcc66442c009cd2fb28845f54de56cb2a16b6d94c5f40e7235d3e72733cf500'}
+  - {seq: 3, role: markers, filename: assets/KR6i0359_003.markers.yaml, hash: 'sha256:a3e795b77f6a6c40891d6a237043f79ac16743177be86a655b7be75dc7e5ae40'}
 table_of_contents:
 - ref:
     seq: 1
@@ -155,7 +156,4 @@ table_of_contents:
   label: 8 阿賴耶微密品(下)
   type: mulu
   level: 1
-hash: sha256:b6bbb85505a72d631f8cd75f557b637946b38ef1ddff7d485d02ca0aa2e0f87e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b6039d3a8f441f3a183d23462889ef604f886a0f03870ab904a34877625355df
